@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/gumball/Darwin_WS/install/uuv_world_ros_plugins/include/**",
+        "/home/gumball/Darwin_WS/install/uuv_world_ros_plugins_msgs/include/**",
+        "/home/gumball/Darwin_WS/install/uuv_world_plugins/include/**",
+        "/home/gumball/Darwin_WS/install/uuv_thruster_manager/include/**",
+        "/home/gumball/Darwin_WS/install/uuv_sensor_ros_plugins/include/**",
+        "/home/gumball/Darwin_WS/install/uuv_sensor_ros_plugins_msgs/include/**",
+        "/home/gumball/Darwin_WS/install/uuv_gazebo_ros_plugins/include/**",
+        "/home/gumball/Darwin_WS/install/uuv_gazebo_ros_plugins_msgs/include/**",
+        "/home/gumball/Darwin_WS/install/uuv_gazebo_plugins/include/**",
+        "/home/gumball/Darwin_WS/install/uuv_control_msgs/include/**",
+        "/home/gumball/Darwin_WS/install/uuv_auv_control_allocator/include/**",
+        "/home/gumball/Darwin_WS/install/serial_motor_rov_msgs/include/**",
+        "/home/gumball/Darwin_WS/install/serial/include/**",
+        "/home/gumball/Darwin_WS/install/openslam_gmapping/include/**",
+        "/home/gumball/Darwin_WS/install/gazebo_mecanum_plugins/include/**",
+        "/opt/ros/foxy/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
